@@ -28,7 +28,14 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+The OWASP (Open Web Application Security Project) Dehradun Chapter is a local extension of the global non-profit organization dedicated to improving the security of software. Established in Dehradun, our chapter aims to foster a vibrant community of security enthusiasts, professionals, and developers who are passionate about web application security.
+
+Our Mission
+The primary mission of the OWASP Dehradun Chapter is to promote a better understanding of web application security within the local community. We strive to:
+
+Educate: Provide educational resources and training sessions on the latest security practices and threats.
+Collaborate: Create a collaborative environment where members can share knowledge, experiences, and best practices.
+Innovate: Encourage innovation and research in web application security by supporting local talent and initiatives.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
