@@ -19,9 +19,9 @@ The OWASP (Open Web Application Security Project) Dehradun Chapter is a local ex
 Our Mission
 The primary mission of the OWASP Dehradun Chapter is to promote a better understanding of web application security within the local community.We strive to:
 
-<h6>Educate: Provide educational resources and training sessions on the latest security practices and threats.</h6>
-<h6>Collaborate: Create a collaborative environment where members can share knowledge, experiences, and best practices.</h6>
-<h6>Innovate: Encourage innovation and research in web application security by supporting local talent and initiatives.</h6>
+<h4>Educate: Provide educational resources and training sessions on the latest security practices and threats.</h4>
+<h4>Collaborate: Create a collaborative environment where members can share knowledge, experiences, and best practices.</h4>
+<h4>Innovate: Encourage innovation and research in web application security by supporting local talent and initiatives.</h4>
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
