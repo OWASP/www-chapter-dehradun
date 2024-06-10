@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Dehradun
-tags: example-tag
+tags: owasp-dehradun
 region: Asia
 country: India
 meetup-group:
