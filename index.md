@@ -40,7 +40,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 Upcoming session details can be found on the
 {% include chapter_events.html group=page.meetup-group %}
 
-<!-- You should delete this comment
+
 
 Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -59,7 +59,7 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+The OWASP (Open Web Application Security Project) Dehradun Chapter is a local extension of the global non-profit organization dedicated to improving the security of software. Established in Dehradun, our chapter aims to foster a vibrant community of security enthusiasts, professionals, and developers who are passionate about web application security
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
